@@ -1,0 +1,18 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.Left{
+  width: 23%;
+  height: 100%;
+}
+
+.Right{
+  width: 77%;
+  height: 100%;
+  background-color: #F9DEA9;
+}
+
+
