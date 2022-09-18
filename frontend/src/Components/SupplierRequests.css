@@ -1,0 +1,62 @@
+.SupplierRequests{
+    height: 80%;
+    width: 90%;
+    background-color: white;
+    margin-top: 8%;
+    margin-left: 5%;
+    border-radius: 2%;
+   
+    
+  
+  
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    
+  }
+
+
+ 
+
+.styled-table thead tr {
+    background-color: #FFD966;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding:  15px;
+}
+
+
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #FFD966;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #ffffff;
+}
+
+.action-buttons{
+    width: 300px;
+
+}
+
+
+
+
+.button3{
+    color: #ffffff;
+}
+
+
+.ml-2{
+    margin-left: 10px;
+
+}
+
+
